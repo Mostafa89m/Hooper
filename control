@@ -1,0 +1,9 @@
+Package: dev.traurige.hooper
+Name: Hooper
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Label your Home screen pages
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
